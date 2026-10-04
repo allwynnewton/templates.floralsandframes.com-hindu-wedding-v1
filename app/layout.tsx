@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   metadataBase: new URL('https://templates2.floralsandframes.com'),
   title: `${hinduCouple.groom} & ${hinduCouple.bride} · ${hinduWedding.dateShort}`,
   description: `${hinduCouple.groom} and ${hinduCouple.bride} invite you to celebrate their wedding in ${hinduWedding.city} — ${hinduWedding.dateLabel}.`,
-  openGraph: { title: `${hinduCouple.groom} & ${hinduCouple.bride}`, description: `A celebration of love, family and forever — ${hinduWedding.dateLabel}.`, type: 'website', url: '/', siteName: `${hinduCouple.groom} & ${hinduCouple.bride}` },
+  openGraph: { title: `You’re invited · ${hinduCouple.groom} & ${hinduCouple.bride}`, description: `A celebration of love, family and forever — ${hinduWedding.dateLabel}.`, type: 'website', url: '/', siteName: `${hinduCouple.groom} & ${hinduCouple.bride}` },
 };
 export const viewport: Viewport = { themeColor: '#0b2a22', width: 'device-width', initialScale: 1 };
 
